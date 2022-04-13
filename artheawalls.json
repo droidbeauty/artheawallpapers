@@ -32,12 +32,14 @@
    {
       "name":"20",
       "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/artheawallpapers/main/20.png"
+      "url":"https://raw.githubusercontent.com/droidbeauty/artheawallpapers/main/20.png",
+      "collections": "Fusion Dark"
    },
    {
       "name":"19",
       "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/artheawallpapers/main/19.png"
+      "url":"https://raw.githubusercontent.com/droidbeauty/artheawallpapers/main/19.png",
+      "collections": "Fusion Dark"
    },
    {
       "name":"18",
